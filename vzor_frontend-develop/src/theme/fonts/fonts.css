@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Calibri";
+  src: url("./Calibri.woff2") format("woff2"),
+    url("./Calibri.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Calibri";
+  src: url("./Calibri-Bold.woff2") format("woff2"),
+    url("./Calibri-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
